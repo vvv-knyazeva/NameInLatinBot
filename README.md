@@ -9,4 +9,4 @@
   - sudo docker run -d -p 80:80 id нужного образа
 * Проверяем запущен ли контейнер: sudo docker ps
 
-* Чтобы остановить докер: sudo docker stop
+* Чтобы остановить докер: sudo docker stop id контейнера
